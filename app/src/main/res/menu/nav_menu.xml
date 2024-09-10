@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/options_viewAllCategories"
+        android:title="View All Categories" />
+    <item
+        android:id="@+id/options_addCategories"
+        android:title="Add Category" />
+    <item
+        android:id="@+id/options_viewAllEvents"
+        android:title=" View All Events" />
+    <item
+        android:id="@+id/options_logOut"
+        android:title="Log Out" />
+</menu>
