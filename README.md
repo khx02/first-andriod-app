@@ -1,5 +1,7 @@
 # first-andriod-app
 
+**MAP VIEW DOESN'T WORK GOOGLE MAP API KEY REMOVED**
+
 This is a very simple event management Andriod app, 
 written in Java.
 
